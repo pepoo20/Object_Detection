@@ -1,8 +1,5 @@
 pip==23.2.1
-httptools==0.6.0
-humanfriendly==10.0
-idna==3.4
-importlib-metadata==6.8.0
+
 keras==2.13.1
 libclang==16.0.6
 Markdown==3.4.4
@@ -66,4 +63,8 @@ google-pasta==0.2.0
 grpcio==1.57.0
 h11==0.14.0
 h5py==3.8.0
+httptools==0.6.0
+humanfriendly==10.0
+idna==3.4
+importlib-metadata==6.7.0
 
